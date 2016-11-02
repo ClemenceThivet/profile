@@ -1,0 +1,91 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+h1 {
+  color: #DD5555;
+  font-size: 35px;
+  font-family: arial;
+  line-height: 30px
+}
+
+h2, h3 {
+  color: #7D7D7D;
+  font-size: 15px;
+  font-family: arial;
+  line-height: 20px
+}
+
+a {
+  color: #7D7D7D;
+  font-size: 15px;
+  font-family: arial;
+  text-decoration: none
+}
+
+a:hover {
+  color: #DD5555;
+}
+
+p {
+  color: #7D7D7D;
+  font-size: 15px;
+  font-family: arial
+}
+
+body {
+  background-color: #EBEBEB
+}
+
+.btn-red{
+  color: white;
+  background-color: #DD5555;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.btn-red:hover {
+  color: white;
+  opacity: 0.8;
+}
+
+.photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.profil {
+  margin: 20px 250px 10px 250px;
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 3px #7B7B7B
+}
+
+.link {
+  margin: 20px 250px 10px 250px;
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 3px #7B7B7B
+}
+
+.series {
+  margin: 20px 250px 10px 250px;
+  text-align: center;
+  background-color: white;
+  padding: 50px 90px 50px 90px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 3px #7B7B7B
+}
+
+.about {
+  margin: 20px 250px 10px 250px;
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 3px #7B7B7B
+}
+
